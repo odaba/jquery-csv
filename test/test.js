@@ -2,7 +2,7 @@ var assert = require('chai').assert;
 var expect = require('chai').expect;
 var should = require('chai').should();
 
-var csv      = require('../src/jquery.csv.js');
+//var csv      = require('../src/jquery.csv.js');
 var fixtures = require('./fixtures/fixtures.js');
 
 describe('core:', function () {

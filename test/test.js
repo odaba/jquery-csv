@@ -3,7 +3,7 @@ var expect = chai.expect;
 var should = chai.should();
 
 //var csv      = require('../src/jquery.csv.js');
-var fixtures = require('./fixtures/fixtures.js');
+//var fixtures = require('./fixtures/fixtures.js');
 
 describe('core:', function () {
 

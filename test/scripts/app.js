@@ -1,5 +1,5 @@
 require.config({
-  baseUrl: './',
+  baseUrl: './scripts',
   paths: {
     'jquery'        : '../../node_modules/jquery/dist/jquery',
     'jquery-csv'    : '../../src/jquery.csv',

@@ -20,7 +20,7 @@ require.config({
   },
 });
 
-define(['jquery', 'jquery-csv', 'chai', 'mocha'], function(jquery, csv, chai, mocha) {
+define(['jquery', 'jquery-csv', 'chai', 'mocha', ], function(jquery, csv, chai, mocha, fixtures) {
   //require();
   //require();
   
